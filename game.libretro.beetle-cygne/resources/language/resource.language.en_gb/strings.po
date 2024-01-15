@@ -1,10 +1,10 @@
-# game.libretro.beetle-wswan language file
-# Addon Name: game.libretro.beetle-wswan
-# Addon id: game.libretro.beetle-wswan
+# game.libretro.beetle-cygne language file
+# Addon Name: game.libretro.beetle-cygne
+# Addon id: game.libretro.beetle-cygne
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.beetle-wswan\n"
+"Project-Id-Version: game.libretro.beetle-cygne\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-02-05 20:27i\n"
 "PO-Revision-Date: 2019-02-05 20:27i\n"

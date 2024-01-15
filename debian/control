@@ -1,14 +1,14 @@
-Source: kodi-game-libretro-beetle-wswan
+Source: kodi-game-libretro-beetle-cygne
 Priority: extra
 Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-beetle-wswan (>= 0.9.35) | beetle-wswan (>= 0.9.35)
+               libretro-beetle-cygne (>= 0.9.35) | beetle-cygne (>= 0.9.35)
 Standards-Version: 3.9.8
 Section: libs
 
-Package: kodi-game-libretro-beetle-wswan
+Package: kodi-game-libretro-beetle-cygne
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro

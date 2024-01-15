@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'kodi-game/game.libretro.beetle-wswan'
+    if: github.repository == 'kodi-game/game.libretro.beetle-cygne'
     runs-on: ubuntu-latest
 
     steps:

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="game.libretro.beetle-wswan"
+<addon id="game.libretro.beetle-cygne"
 		name="Bandai - WonderSwan/Color (Beetle Cygne)"
-		version="0.0.0.0"
+		version="0.9.35.1"
 		provider-name="Dox, Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,7 +18,7 @@
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
-		<source>https://github.com/kodi-game/game.libretro.beetle-wswan</source>
+		<source>https://github.com/kodi-game/game.libretro.beetle-cygne</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
