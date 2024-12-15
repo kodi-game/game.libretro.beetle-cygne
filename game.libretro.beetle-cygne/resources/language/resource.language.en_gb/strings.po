@@ -24,6 +24,10 @@ msgctxt "Addon Description"
 msgid "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne."
 msgstr ""
 
+msgctxt "Addon Lifecyclestate"
+msgid "This add-on has been renamed from Cygne to Beetle Wonderswan."
+msgstr ""
+
 # Empty string with ID 30000
 
 msgctxt "#30001"

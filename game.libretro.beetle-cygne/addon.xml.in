@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<lifecycle type="broken" lang="en_GB">This add-on has been renamed from Cygne to Beetle Wonderswan.</lifecycle>
 		<summary lang="da_DK">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<summary lang="es_ES">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
@@ -37,5 +38,6 @@
 		<description lang="it_IT">Port autonomo di Mednafen WonderSwan su libretro, a sua volta un fork di Cygne.</description>
 		<description lang="sl_SI">Samostojno pristanišče Mednafen WonderSwan v libretro, ki je sam razcep Cygne.</description>
 		<description lang="zh_CN">从 Mednafen WonderSwan 到 Librector 的独立移植，它本身就是 Cygne 的一个分支。</description>
+		<lifecyclestate type="broken" lang="en_GB">This add-on has been renamed from Cygne to Beetle Wonderswan.</lifecyclestate>
 	</extension>
 </addon>
