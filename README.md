@@ -4,7 +4,7 @@
 
 Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.
 
-This add-on has been renamed from Cygne to Beetle Wonderswan.
+This add-on has been renamed from Beetle Cygne to Beetle Wonderswan.
 
 ### License
 
